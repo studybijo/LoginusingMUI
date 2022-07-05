@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mui.git/static/css/main.c2d1a3cf.css",
-    "main.js": "/mui.git/static/js/main.0c4f2bf2.js",
-    "static/js/787.2a69fe84.chunk.js": "/mui.git/static/js/787.2a69fe84.chunk.js",
-    "index.html": "/mui.git/index.html",
-    "main.c2d1a3cf.css.map": "/mui.git/static/css/main.c2d1a3cf.css.map",
-    "main.0c4f2bf2.js.map": "/mui.git/static/js/main.0c4f2bf2.js.map",
-    "787.2a69fe84.chunk.js.map": "/mui.git/static/js/787.2a69fe84.chunk.js.map"
+    "main.css": "/studybijo/mui.git/static/css/main.c2d1a3cf.css",
+    "main.js": "/studybijo/mui.git/static/js/main.5f1ac70c.js",
+    "static/js/787.2a69fe84.chunk.js": "/studybijo/mui.git/static/js/787.2a69fe84.chunk.js",
+    "index.html": "/studybijo/mui.git/index.html",
+    "main.c2d1a3cf.css.map": "/studybijo/mui.git/static/css/main.c2d1a3cf.css.map",
+    "main.5f1ac70c.js.map": "/studybijo/mui.git/static/js/main.5f1ac70c.js.map",
+    "787.2a69fe84.chunk.js.map": "/studybijo/mui.git/static/js/787.2a69fe84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2d1a3cf.css",
-    "static/js/main.0c4f2bf2.js"
+    "static/js/main.5f1ac70c.js"
   ]
 }
